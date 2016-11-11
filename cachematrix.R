@@ -45,7 +45,4 @@ a
 CacheMatrix <- makeCacheMatrix(a)
 
 cacheSolve(CacheMatrix)
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
